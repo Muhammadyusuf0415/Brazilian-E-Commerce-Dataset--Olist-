@@ -6,7 +6,7 @@
 
 ### Dashboard Demo
 
-[▶️ Watch Dashboard Demo](images_and_videos/bandicam%202026-07-23%2012-38-36-562.mp4)
+[▶️ Watch Dashboard Demo](images_and_videos/bandicam%202026-07-23%2012-38-36-562.gif)
 ## 📌 Project Overview
 
 This project analyzes the Brazilian E-Commerce public dataset from **Olist**, one of the largest e-commerce marketplaces in Brazil.
