@@ -140,9 +140,6 @@ The dashboard provides insights into key business metrics and performance indica
 - Delivery performance analysis
 - Payment method analysis
 
-### Dashboard Preview
-
-<img src="images/dashboard_preview.png" width="900" alt="Brazilian E-Commerce Power BI Dashboard">
 
 ---
 
