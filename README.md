@@ -2,7 +2,7 @@
 
 ### Dashboard Preview
 
-<img src="images_and_videos/12-41-56-802.jpg" width="900" alt="Brazilian E-Commerce Power BI Dashboard">
+<img src="images_and_videos/bandicam 2026-07-23 12-41-56-802.jpg" width="900" alt="Brazilian E-Commerce Power BI Dashboard">
 
 ### Dashboard Demo
 
