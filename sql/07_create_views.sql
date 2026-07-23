@@ -1,10 +1,6 @@
 /*
-==============================================================
-07 - CREATING VIEWS
-==============================================================
-
-Cleaning Decisions
-
+-- 07_create_views.sql
+-- 
 1. No duplicate primary keys detected.
 2. No orphan records detected.
 3. NULL review comments were retained because customers are not

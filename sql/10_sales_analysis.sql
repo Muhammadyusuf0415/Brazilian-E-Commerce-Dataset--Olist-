@@ -1,6 +1,6 @@
 -- 10_sales_analysis.sql
 -- Sales metrikalari: OAV, ARPU, growth
-
+-- 
 -- Monthly revenue and average order value
 SELECT date_trunc('month', o.order_purchase_timestamp) AS month,
        COUNT(DISTINCT o.order_id) AS orders,

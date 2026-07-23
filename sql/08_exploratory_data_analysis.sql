@@ -1,21 +1,9 @@
-/*
-==============================================================
-08 - EXPLORATORY DATA ANALYSIS
-==============================================================
+-- 08_exploratory_data_analysis.sql
+-- 
+-- Purpose:
+--     Explore sales performance, customer behavior,
+--     product demand, payment trends, and delivery performance.
 
-Project:
-    Brazilian E-Commerce Public Dataset by Olist
-
-Purpose:
-    Explore sales performance, customer behavior,
-    product demand, payment trends, and delivery performance.
-
-Author:
-    Muhammadyusuf Olimjonov
-==============================================================
-*/
-
--- Section 1 — Executive Overview
 
 -- SELECT
 --     ROUND(SUM(total_payment),2) AS total_revenue

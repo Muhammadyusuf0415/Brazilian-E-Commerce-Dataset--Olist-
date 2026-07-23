@@ -1,4 +1,5 @@
 -- 03_import_verification.sql
+-- 
 -- Import qilingan ma'lumotlarni tekshirish uchun skriptlar
 
 -- 1) Har jadvaldagi satrlar soni

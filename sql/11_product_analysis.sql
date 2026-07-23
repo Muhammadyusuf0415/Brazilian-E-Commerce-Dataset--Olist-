@@ -1,6 +1,6 @@
 -- 11_product_analysis.sql
 -- Mahsulot tahlili: eng ko'p sotilgan, mediana price, foto soni ta'siri
-
+-- 
 -- Top 20 selling products by revenue
 SELECT oi.product_id, SUM(oi.price) AS revenue, COUNT(oi.order_id) AS units_sold
 FROM order_items oi

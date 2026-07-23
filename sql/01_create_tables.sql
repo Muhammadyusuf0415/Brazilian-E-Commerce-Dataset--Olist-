@@ -1,4 +1,5 @@
 -- 01_create_tables.sql
+-- 
 -- Creates the core tables for the Olist Brazilian e-commerce dataset (Postgres syntax)
 
 CREATE TABLE IF NOT EXISTS sellers (

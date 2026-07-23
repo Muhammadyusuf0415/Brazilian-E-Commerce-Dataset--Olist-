@@ -1,6 +1,6 @@
 -- 14_create_views.sql
 -- Qo'shimcha ko'rinishlar dashboard va tez so'rovlar uchun
-
+-- 
 -- Customer RFM view (basic)
 CREATE OR REPLACE VIEW vw_customer_rfm AS
 WITH last_date AS (SELECT MAX(order_purchase_timestamp) AS snapshot_date FROM orders)

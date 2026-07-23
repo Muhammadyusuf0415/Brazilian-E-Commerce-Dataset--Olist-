@@ -1,4 +1,5 @@
 -- 04_data_understanding.sql
+-- 
 -- Ma'lumotlarni umumiy tushunish (summary va taqsimotlar)
 
 -- Unique customers

@@ -1,7 +1,7 @@
 -- 15_powerbi_queries.sql
 -- Power BI / dashboard-ga moslash uchun tayyor so'rovlar va tavsiyalar
 -- Power BI-da to'g'ridan-to'g'ri PostgreSQL bilan ishlaganda quyidagi view-lardan foydalanish tavsiya etiladi.
-
+-- 
 -- 1) View: order-level metrics (id, date, revenue, items_count)
 SELECT * FROM vw_order_totals;
 

@@ -1,4 +1,5 @@
 -- 05_data_quality_audit.sql
+-- 
 -- Data quality checks: duplicates, orphan foreign keys, invalid values
 
 -- 1) Duplicate primary keys

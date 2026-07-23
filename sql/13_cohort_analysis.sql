@@ -1,6 +1,6 @@
 -- 13_cohort_analysis.sql
 -- Cohort tahlili: birinchi buyurtma oyiga asosan retention jadvali
-
+-- 
 WITH first_orders AS (
   SELECT customer_id, MIN(date_trunc('month', order_purchase_timestamp)) AS cohort_month
   FROM orders

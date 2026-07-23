@@ -1,6 +1,6 @@
 -- 09_customer_analysis.sql
 -- Customer analysis: eng ko'p buyurtma berganlar, churn, segmentatsiya
-
+-- 
 -- Top 20 customers by total spend
 SELECT c.customer_id, SUM(oi.price) AS total_spent, COUNT(DISTINCT o.order_id) AS orders_count
 FROM customers c

@@ -1,6 +1,6 @@
 -- 12_rfm_analysis.sql
 -- RFM: Recency, Frequency, Monetary qiymatlarni hisoblash va segmentatsiya
-
+-- 
 -- Base RFM metrics (as of a chosen snapshot date)
 WITH last_date AS (SELECT MAX(order_purchase_timestamp) AS snapshot_date FROM orders)
 , customer_m AS (

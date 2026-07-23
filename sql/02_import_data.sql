@@ -1,4 +1,5 @@
 -- 02_import_data.sql
+-- 
 -- CSV fayllardan Postgresga ma'lumot import qilish (example path: /data/*.csv)
 -- Tizimingizga mos ravishda file path va delimiter ni sozlang.
 
