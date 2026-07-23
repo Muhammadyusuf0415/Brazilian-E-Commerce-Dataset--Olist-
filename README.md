@@ -2,11 +2,15 @@
 
 ### Dashboard Preview
 
-<img src="images_and_videos/bandicam 2026-07-23 12-41-56-802.jpg" width="900" alt="Brazilian E-Commerce Power BI Dashboard">
+<img src="images_and_videos/bandicam 2026-07-23 12-41-56-802.jpg" 
+     width="900" 
+     alt="Brazilian E-Commerce Power BI Dashboard">
 
 ### Dashboard Demo
 
-[▶️ Watch Dashboard Demo](images_and_videos/bandicam%202026-07-23%2012-38-36-562.gif)
+<img src="images_and_videos/bandicam 2026-07-23 12-38-36-562.gif" 
+     width="900" 
+     alt="Power BI Dashboard Demo">
 ## 📌 Project Overview
 
 This project analyzes the Brazilian E-Commerce public dataset from **Olist**, one of the largest e-commerce marketplaces in Brazil.
